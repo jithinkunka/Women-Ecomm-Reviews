@@ -1,2 +1,2 @@
 # Women-Ecomm-Reviews
-EDA and Visualization of reviews using Plotly
+EDA and Visualization of reviews using Plotly with Python
